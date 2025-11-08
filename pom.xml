@@ -2,6 +2,9 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>LearningPageObjectModelCucumber</groupId>
   <artifactId>LearningPageObjectModelCucumberSample_Child2</artifactId>
+=======
+  <artifactId>LearningPageObjectModelCucumberSample_Main123</artifactId>
+>>>>>>> main
   <version>0.0.1-SNAPSHOT</version>
   
   <properties>
